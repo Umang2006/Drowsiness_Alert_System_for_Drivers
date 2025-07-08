@@ -29,7 +29,7 @@ $$
 EAR = \frac{||P_2 - P_6|| + ||P_3 - P_5||}{2 \times ||P_1 - P_4||}
 $$
 
-- $$ P_1 $$ to $$ P_6 $$ are the coordinates of key eye landmarks detected by Mediapipe.
+- P1 to P6 are the coordinates of key eye landmarks detected by Mediapipe.
 - The numerator computes the sum of the vertical distances between the eyelids.
 - The denominator computes the horizontal eye width.
 - When the eye closes, the vertical distances shrink, causing the EAR to drop below a threshold.
