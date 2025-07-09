@@ -93,5 +93,3 @@ This project is a prototype developed for learning and demonstration purposes. T
 
 ## Acknowledgements
 The motivation, introduction, and general concepts for this project are inspired by prior research and academic reports on driver drowsiness detection. The implementation in this repository is based on open-source tools and libraries, with a focus on rapid prototyping and demonstration.
-
-For any questions or suggestions, please contact the repository maintainer.
